@@ -1,4 +1,4 @@
-# include<stdio.h>
+# include<stdio.h> //---- preprosessor directive
 
 int main() {
     int a = 10; // integer variable
